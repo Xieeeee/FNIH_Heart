@@ -14,10 +14,10 @@ Candidate cis-regulatory element (cCRE) analysis, including differential accessi
 Gene regulatory network (GRN) inference linking transcription factors to target genes via cCRE connections.
 
 ### [03.Hi-C](./03.Hi-C)
-Placeholder for Hi-C-specific downstream analyses.
+Compartment and chromatin domain analysis for Droplet Hi-C data
 
 ### [04.gwas](./04.gwas)
 GWAS enrichment analysis using LD score regression (LDSC) and fine-mapping of causal variants through integration with cell type-specific regulatory maps and Hi-C loops.
 
 ### [scripts](./scripts)
-Shared R utility functions (color palettes, Seurat wrappers, Paired-Tag helpers, ATAC peak analysis).
+Shared R utility functions.
