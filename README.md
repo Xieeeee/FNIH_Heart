@@ -20,4 +20,4 @@ This directory contains code for pre-processing data from different modalities.
 This directory contains code for re-producing figures in our manuscript. 
 
 ## [03.data](https://github.com/Xieeeee/FNIH_Heart/tree/main/03.data)
-Processed data for this project can be found at XXX, raw data can be found at dbGaP.
+Processed data including supplementary tables are available on Zenodo (doi: 10.5281/zenodo.15232790).
