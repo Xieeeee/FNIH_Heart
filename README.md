@@ -17,7 +17,7 @@
 
 Heart failure is a leading cause of morbidity and mortality; yet gene regulatory mechanisms driving cell type-specific pathologic responses remain undefined. Here, we present the cell type-resolved transcriptomes, chromatin accessibility, histone modifications and chromatin organization of non-failing and failing human hearts that were discovered from interrogating 776,479 cells spanning all cardiac chambers. Further multimodal analyses revealed dynamic changes in cell type abundance, gene regulatory programs and chromatin organization, which expanded the annotation of cardiac cis-regulatory sequences by ten-fold and uncovered cell type-specific enhancer-gene interactions. Cardiomyocytes and fibroblasts particularly exhibited complex disease-associated cellular states. Mapping genetic association data onto cell type-specific regulatory programs revealed likely causal genetic contributors to heart failure. Together, these findings provide comprehensive, multimodal gene regulatory maps of the human heart in health and disease, offering a valuable framework for designing precise cell type-targeted therapies for treating heart failure.
 
-![Graphic abstract](./images/Graphic_abstract.png)
+![Graphic abstract](./images/Graphic_abstract.jpg)
 
 ## Repository structure
 
