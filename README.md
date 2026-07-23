@@ -1,17 +1,10 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top">
+<div align="right">
+<img src="./images/FNIH_heart_color_white.png" width="190" alt="FNIH Heart"/>
+</div>
 
 # FNIH Heart
 
 **A single-nuclei, multi-modalities epigenetic atlas of human heart failure.**
-
-</td>
-<td width="210" valign="top" align="right">
-<img src="./images/FNIH_heart_color_white.png" width="190" alt="FNIH Heart"/>
-</td>
-</tr>
-</table>
 
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.15232790-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.15232790)
 [![Browser](https://img.shields.io/badge/Browser-HeartEpigenome-C0392B)](https://epigenome.wustl.edu/HeartEpigenome/)
