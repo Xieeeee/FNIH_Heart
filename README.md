@@ -1,4 +1,4 @@
-# FNIH Heart <img src="./images/FNIH_heart_mono.png" align="right" width="200"/>
+# FNIH Heart <img src="./images/FNIH_heart_color.png" align="right" width="200"/>
 FNIH Heart is a single-nuclei, multi-modalities epigenetic atlas on human heart failure.
 <br/><br/>
 
