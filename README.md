@@ -1,8 +1,17 @@
-<img src="./images/FNIH_heart_color_white.png" align="right" width="190" alt="FNIH Heart"/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
 
 # FNIH Heart
 
 **A single-nuclei, multi-modalities epigenetic atlas of human heart failure.**
+
+</td>
+<td width="210" valign="top" align="right">
+<img src="./images/FNIH_heart_color_white.png" width="190" alt="FNIH Heart"/>
+</td>
+</tr>
+</table>
 
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.15232790-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.15232790)
 [![Browser](https://img.shields.io/badge/Browser-HeartEpigenome-C0392B)](https://epigenome.wustl.edu/HeartEpigenome/)
@@ -10,8 +19,6 @@
 
 🍷 This repository contains the code and data to reproduce the results of our manuscript:
 **Single cell multiomics and 3D genome architecture reveals novel pathways of human heart failure**
-
-<br clear="right"/>
 
 ## Abstract
 
