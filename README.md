@@ -1,4 +1,4 @@
-<img src="./images/FNIH_heart_color.png" align="right" width="190" alt="FNIH Heart"/>
+<img src="./images/FNIH_heart_color_white.png" align="right" width="190" alt="FNIH Heart"/>
 
 # FNIH Heart
 
