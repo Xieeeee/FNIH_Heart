@@ -1,8 +1,4 @@
-<div align="right">
-<img src="./images/FNIH_heart_color_white.png" width="190" alt="FNIH Heart"/>
-</div>
-
-# FNIH Heart
+# FNIH Heart <img src="./images/FNIH_heart_color_white.png" align="right" width="200"/>
 
 **A single-nuclei, multi-modalities epigenetic atlas of human heart failure.**
 
